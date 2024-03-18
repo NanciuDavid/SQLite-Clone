@@ -1,7 +1,7 @@
 # SQLite Clone C++
 
 This project was done as an assignment for OOP course lead by Boja Catalin at CSIE.
-Special thanks to my coleague : Popa Florian  (https://github.com/poparf)
+Special thanks to my colleague : Popa Florian  (https://github.com/poparf)
 
 
 # Command processor
